@@ -8,5 +8,5 @@
 </p>
 
 ## Github Performance
-![github stats](https://github-readme-stats.vercel.app/api?username=irsyadulibad&show_icons=true&theme=radical)
-![github top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=irsyadulibad&layout=compact&theme=radical&langs_count=8)
+![github stats](https://github-readme-stats.vercel.app/api?username=irsyadulibad&show_icons=true&theme=tokyonight)
+![github top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=irsyadulibad&layout=compact&theme=tokyonight&langs_count=8)
